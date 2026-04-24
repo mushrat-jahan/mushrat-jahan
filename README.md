@@ -11,9 +11,7 @@ Greetings! I am Mushrat, a Computer Science Engineer. I started my research work
 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mushrat-jahan/" height="30" width="40" /></a>
 </p>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=mushrat-jahan&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Mushrat's GitHub Stats" />
-</p>
+
 <p align="center">
   <a href="https://github.com/mushrat-jahan">
     <img align="center"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushrat-jahan&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF" alt="GitHub Contribution"/>
